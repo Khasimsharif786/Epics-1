@@ -1,0 +1,4 @@
+n=datastore("microbes\","IncludeSubfolders",true);
+im =imread("combo2.jpeg");
+imshow(im);
+montage(n);
